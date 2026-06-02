@@ -14,4 +14,4 @@ Repository untuk dokumentasi teknis integrasi sistem keamanan, IP Cam, dan optim
 * [Jasa Pasang CCTV Per Titik Jabodetabek](https://www.tele-teknik.com/2026/05/jasa-pasang-cctv-per-titik-jabodetabek.html)
 
 ## Kontak Kami:
-Untuk konsultasi pemasangan, silakan kunjungi [Hubungi Teleteknik](https://www.tele-teknik.com/#kontak).
+Untuk konsultasi pemasangan, silakan kunjungi [Hubungi Teleteknik](https://www.tele-teknik.com/p/kontak-kami.html).
