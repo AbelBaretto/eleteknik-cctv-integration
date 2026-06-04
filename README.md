@@ -3,6 +3,7 @@
 Repository untuk dokumentasi teknis integrasi sistem keamanan, IP Cam, dan optimasi CCTV berbasis AI.
 
 ## Informasi & Layanan Utama:
+* [Jasa Pasang CCTV Terdekat](https://www.tele-teknik.com/2026/06/jasa-pasang-cctv-terdekat-solusi.html)
 * [Layanan Teleteknik Utama](https://www.tele-teknik.com/)
 * [Strategi Penempatan Kamera CCTV Modern](https://www.tele-teknik.com/2026/05/transformasi-keamanan-modern-keunggulan.html)
 * [Perbandingan Sistem IP Cam vs CCTV Konvensional](https://www.tele-teknik.com/2026/05/perbandingan-sistem-ip-cam-vs-cctv.html)
